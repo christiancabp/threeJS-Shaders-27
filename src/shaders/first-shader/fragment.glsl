@@ -8,7 +8,7 @@
  varying float vElevation;
 
  uniform vec3 uColor;
- uniform sampler2D uTexture;
+ uniform sampler2D uTexture;       // Adding texture
 
 void main(){
     // Blue & Purple varying
